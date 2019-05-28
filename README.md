@@ -1,8 +1,8 @@
 # TUBES_WEBSERVICE
 Bismillahirrahmanirrahim
 
-Tugas Besar Web Service 
-Weave
+Tugas Besar Wseb Service 
+WeaveSock
 Daftar Kelompok :
 
 
